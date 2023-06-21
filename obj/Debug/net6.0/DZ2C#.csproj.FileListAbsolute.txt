@@ -1,0 +1,15 @@
+C:\Users\Вадим\Desktop\DZ2C#\bin\Debug\net6.0\DZ2C#.exe
+C:\Users\Вадим\Desktop\DZ2C#\bin\Debug\net6.0\DZ2C#.deps.json
+C:\Users\Вадим\Desktop\DZ2C#\bin\Debug\net6.0\DZ2C#.runtimeconfig.json
+C:\Users\Вадим\Desktop\DZ2C#\bin\Debug\net6.0\DZ2C#.dll
+C:\Users\Вадим\Desktop\DZ2C#\bin\Debug\net6.0\DZ2C#.pdb
+C:\Users\Вадим\Desktop\DZ2C#\obj\Debug\net6.0\DZ2C#.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\DZ2C#\obj\Debug\net6.0\DZ2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\DZ2C#\obj\Debug\net6.0\DZ2C#.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\DZ2C#\obj\Debug\net6.0\DZ2C#.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\DZ2C#\obj\Debug\net6.0\DZ2C#.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\DZ2C#\obj\Debug\net6.0\DZ2C#.dll
+C:\Users\Вадим\Desktop\DZ2C#\obj\Debug\net6.0\refint\DZ2C#.dll
+C:\Users\Вадим\Desktop\DZ2C#\obj\Debug\net6.0\DZ2C#.pdb
+C:\Users\Вадим\Desktop\DZ2C#\obj\Debug\net6.0\DZ2C#.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\DZ2C#\obj\Debug\net6.0\ref\DZ2C#.dll
