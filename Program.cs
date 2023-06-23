@@ -16,16 +16,39 @@ else
 */
 // 2.Задача. Напишите программу, которая выводит третью цифру
 // заданного числа или сообщает, что третьей цифры нет.
-
-int FindthirdDigit(int num)
+/*
+int ThirdDigit(int number)
 {
-    int result;
-    if(num > 99 && num < 1000 || num < -99 && num > -1000)
-    int ed = num % 10
-    result = ed;
+    int result = -1;
+    if (number >= 100)
+    {
+        while (number > 999)
+        {
+            number = number / 10;
+        }
+        result = number % 10;
+    }
+return result; 
 }
-Console.WriteLine("Input a two-digit num: ");
-int num = Convert.ToInt32(Console.ReadLine());
 
-int thirdDigit = FindthirdDigit(num);
-Console.WriteLine($"third Digit of {num} is {thirddigit}");
+Console.Write("Input three-digit number: ");
+int number1 = Convert.ToInt32(Console.ReadLine());
+ 
+if (ThirdDigit(number1) == -1)
+Console.WriteLine("третьей цифры нет");
+else
+Console.WriteLine($"Third digit is {ThirdDigit(number1)}");
+*/
+//Напишите программу, 
+//которая принимает на вход цифру, обозначающую день недели, 
+//и проверяет, является ли этот день выходным.
+/*
+Console.WriteLine ("Введите день недели...");
+int dayofweek = Convert.ToInt32(Console.ReadLine());
+if (dayofweek == 6 || dayofweek == 7) 
+Console.WriteLine ("Ответ: Выходной день.");
+else if (dayofweek <= 5) 
+Console.WriteLine ("Ответ: Будний день.");
+else if (dayofweek > 7) 
+Console.WriteLine ("Ошибка: В неделе всего 7 дней!");
+*/
